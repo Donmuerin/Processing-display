@@ -5,11 +5,6 @@ Here are some information from Wikipedia: Processing is a flexible software sket
 https://processing.org/
 
 # Information about my works
-Inspired by Doctor Strange Movie 2016 - The magic spells. 
-
-![eg2.png]({{site.baseurl}}/eg2.png)
-
-![eg1.png]({{site.baseurl}}/eg1.png)
-
+Inspired by Doctor Strange Movie 2016 - Mandala Circle, the magic spells. 
 
 (Source codes are not included)
